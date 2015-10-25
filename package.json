@@ -1,0 +1,34 @@
+{
+  "name": "caverphone-phonetics",
+  "version": "1.0.0",
+  "description": "Caverphone phonetic algorithm",
+  "license": "MIT",
+  "keywords": [
+    "caverphone",
+    "phonetic",
+    "lanuage",
+    "word"
+  ],
+  "main": "lib/caverphone",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de/)",
+  "dependencies": {},
+  "devDependencies": {
+    "matcha": "~0.6.0",
+    "mocha": "~2.3.3"
+  },
+  "scripts": {
+    "bench": "matcha",
+    "test": "mocha"
+  },
+  "homepage": "https://github.com/jhermsmeier/node-caverphone-phonetics",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhermsmeier/node-caverphone-phonetics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-caverphone-phonetics/issues"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
